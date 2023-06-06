@@ -9,3 +9,21 @@ body .logo {
     font-family: Noto Serif, sans-serif;
     color: rgb(250, 226, 194);
 }
+
+body .content {
+    text-align: center;
+    font-family: Noto Serif, sans-serif;
+    color: rgb(223, 219, 215);
+}
+
+footer {
+    text-align: center;
+    font-family: Noto Serif, sans-serif;
+    color: rgb(223, 219, 215);
+}
+
+body .footer_copyright {
+    text-align: center;
+    font-family: Noto Serif, sans-serif;
+    color: rgb(250, 165, 229);
+}
