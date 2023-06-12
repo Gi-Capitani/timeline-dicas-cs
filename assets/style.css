@@ -175,7 +175,8 @@ body {
 
 body .footer_copyright {
     margin: 0;
-    font-family: Noto Serif, sans-serif;
+    font-family: sans-serif;
+    gap: 3rem;
     color: rgb(241, 208, 17);
     display: flex;
     justify-content: center;
