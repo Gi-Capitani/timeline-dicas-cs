@@ -1,4 +1,4 @@
- - Timeline de Dicas para Jogadores Iniciantes de Counter-Strike: Global Offensive (CS:GO)
+#Timeline de Dicas para Jogadores Iniciantes de Counter-Strike: Global Offensive (CS:GO)
 Este projeto consiste em uma timeline interativa contendo dicas para jogadores iniciantes de Counter-Strike (CS). As dicas foram retiradas do site "Liga dos Games" e estão organizadas de forma cronológica para auxiliar no aprendizado progressivo.
 Funcionalidades
 •	Timeline interativa com dicas para jogadores iniciantes de CS.
